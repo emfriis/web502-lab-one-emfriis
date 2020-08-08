@@ -4,7 +4,9 @@
 
 ### Node.js vs XAMMP:
 
-Node.js is a highly flexibile JavaScript framework. It can be used to create your own web server, but it is distinct from XAMMP, which is a dedicated web server solution.
+Node.js is a highly flexibile JavaScript framework. It provides tools that simplify the development of web applications. Node.js' library also provides a built in HTTP server implementation used to create your own web server, but it is significantly distinct from XAMMP.
+
+XAMMP integrates a dedicated web server solution through the Apache HTTP server. It effectively functions as a local server, which allows for local application testing before moving to a remote web server.
 
 ## Web Frameworks
 
@@ -28,7 +30,7 @@ ex/
 
 ### Frameworks vs CMSs:
 
-The main difference between frameworks and CSMs is their approach. With a framework, everything must be built from scratch. Alternatively, with a CMS, you begin with a number of pre-set features.
+The main difference between frameworks and CSMs is their approach. With a framework, everything must be built from scratch. Alternatively, with a CMS, you have a software application already built and  begin with a number of pre-set features.
 
 ### Frameworks vs Libraries:
 
