@@ -1,14 +1,14 @@
 # WEB502 - Lab One - Emily Friis
 
-## Node.js vs XAMMP:
+## Node.js vs XAMPP:
 
-Node.js is a highly flexibile JavaScript framework. It provides tools that simplify the development of web applications. Node.js' library also provides a built in HTTP server implementation used to create your own web server, but it is significantly distinct from XAMMP.
+Node.js is a highly flexibile JavaScript framework. It provides tools that simplify the development of web applications. Node.js' library also provides a built in HTTP server implementation used to create your own web server, but it is significantly distinct from XAMPP.
 
-XAMMP integrates a dedicated web server solution through the Apache HTTP server. It effectively functions as a local server, which allows for local application testing before moving to a remote web server.
+XAMPP integrates a dedicated web server solution through the Apache HTTP server. It effectively functions as a local server, which allows for local application testing before moving to a remote web server.
 
 ## Installing Frameworks:
 
-To install my frameworks I used the architecture provided by XAMMP to implement a locally hosted development environment. First, I configured the Apache web server and MySQL database management system, making sure they were assigned to open ports. Secondly, I created database for each framework and created a user with full access to each database. Next, I downloaded the files for each framework, and extracted their contents into the htdocs folder in xammp's directory. From there, I was able to configure each using the database name and user details I had set up earlier.
+To install my frameworks I used the architecture provided by XAMPP to implement a locally hosted development environment. First, I configured the Apache web server and MySQL database management system, making sure they were assigned to open ports. Secondly, I created database for each framework and created a user with full access to each database. Next, I downloaded the files for each framework, and extracted their contents into the htdocs folder in xammp's directory. From there, I was able to configure each using the database name and user details I had set up earlier.
 
 ## Framework Comparison:
 

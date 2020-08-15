@@ -32,7 +32,9 @@ New plugins can be added in two different ways. You can press *Add New* in the P
 
 ## Contact Forms:
 
+I chose Contact Form 7 for my contact form plugin. It comes with a pre-built setup for a contact form, containing your mail details, and a message format for users. Several different contact forms can be created, and each has code that can be put into a content page to link to the contact form.
 
+![contact form setup](https://i.imgur.com/EnRo9Hx.png)
 
 ## eCommerce:
 
@@ -40,6 +42,8 @@ For a shop/eCommerce plugin, I chose WooCommerce, which sets up an effective sto
 
 ## Social Media:
 
-Social Pug was my choice for a
+Contact Widgets was my choice for a social media plugin. It provides a simple medium for displaying your business' social media details in blocks on WordPress pages. It supports a wide variety of social media sites, and allows you to pick and choose the sites displayed. It also provides a simple functionality for placing your contact details in a side bar.
+
+![social media setup](https://i.imgur.com/Km9sAFb.png)
 
 ## References:
