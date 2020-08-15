@@ -50,8 +50,8 @@ Contact Widgets was my choice for a social media plugin. It provides a simple me
 
 ## References:
 
-Contact Form 7. (n.d.). *Getting started with Contact Form 7*. Takayuki Miyoshi. https://contactform7.com/getting-started-with-contact-form-7/
+Takayuki Miyoshi. (n.d.). *Getting started with Contact Form 7*. Contact Form 7. https://contactform7.com/getting-started-with-contact-form-7/
 
-WooCommerce. (n.d.). *How to Set Up a New WooCommerce Store*. Cody Landefeld. https://woocommerce.com/posts/how-to-set-up-a-new-woocommerce-store/
+Cody Landefeld. (n.d.). *How to Set Up a New WooCommerce Store*. WooCommerce. https://woocommerce.com/posts/how-to-set-up-a-new-woocommerce-store/
 
-WordPress. (n.d.). *Contact Widgets*. GoDaddy. https://wordpress.org/plugins/contact-widgets/   
+GoDaddy. (n.d.). *Contact Widgets*. WordPress. https://wordpress.org/plugins/contact-widgets/   
