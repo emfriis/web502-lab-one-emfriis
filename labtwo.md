@@ -32,18 +32,26 @@ New plugins can be added in two different ways. You can press *Add New* in the P
 
 ## Contact Forms:
 
-I chose Contact Form 7 for my contact form plugin. It comes with a pre-built setup for a contact form, containing your mail details, and a message format for users. Several different contact forms can be created, and each has code that can be put into a content page to link to the contact form.
+I chose Contact Form 7 for my contact form plugin. It comes with a pre-built setup for a contact form, containing your mail details, and a message format for users. Several different contact forms can be created, and each has code that can be put into a content page to link to the contact form (Takayuki Miyoshi, (n.d.)).
 
 ![contact form setup](https://i.imgur.com/EnRo9Hx.png)
 
 ## eCommerce:
 
-For a shop/eCommerce plugin, I chose WooCommerce, which sets up an effective storefront for a WordPress site. Installing WooCommerce lays down the framework for your shop and payment system - including a Shop, User Account System, Cart, Checkout. 
+For a shop/eCommerce plugin, I chose WooCommerce, which sets up an effective storefront for a WordPress site. Installing WooCommerce lays down the framework for your shop and payment system - including a Shop, User Account System, Cart, Checkout. Adding and managing products on your storefront is made easy, and it also provides comprehensive stat-tracking for sales and traffic via its integration with Jetpack (Cody Landefeld, (n.d.)).    
+
+![ecommerce setup](https://i.imgur.com/oeTDLzt.png)
 
 ## Social Media:
 
-Contact Widgets was my choice for a social media plugin. It provides a simple medium for displaying your business' social media details in blocks on WordPress pages. It supports a wide variety of social media sites, and allows you to pick and choose the sites displayed. It also provides a simple functionality for placing your contact details in a side bar.
+Contact Widgets was my choice for a social media plugin. It provides a simple medium for displaying your business' social media details in blocks on WordPress pages. It supports a wide variety of social media sites, and allows you to pick and choose the sites displayed. It also provides a simple functionality for placing your contact details in a side bar (GoDaddy, (n.d.)).
 
 ![social media setup](https://i.imgur.com/Km9sAFb.png)
 
 ## References:
+
+Contact Form 7. (n.d.). *Getting started with Contact Form 7*. Takayuki Miyoshi. https://contactform7.com/getting-started-with-contact-form-7/
+
+WooCommerce. (n.d.). *How to Set Up a New WooCommerce Store*. Cody Landefeld. https://woocommerce.com/posts/how-to-set-up-a-new-woocommerce-store/
+
+WordPress. (n.d.). *Contact Widgets*. GoDaddy. https://wordpress.org/plugins/contact-widgets/   
