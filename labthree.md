@@ -30,7 +30,7 @@ A jQuery library is present in the installation of WordPress. This can be access
 
 ![js](https://i.imgur.com/I0u1nqO.png)
 
-## Other Approaches to JavaScript:
+## Other Approaches:
 
 ### Angular JS vs React JS
 
